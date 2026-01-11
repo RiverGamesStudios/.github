@@ -5,7 +5,7 @@ Hello! This is the GitHub of [River Games](https://rivergames.ca).<br><br><br>
 ![Games](https://github.com/user-attachments/assets/26025b10-66c2-4122-94cb-5677942e1367)
 ---
 ### Work in Progress
-* Technetium
+* [Technetium](https://technetium.rivergames.ca)
 * RIVER Island
 * Mini Mayhem Reimagined
 ### Released
